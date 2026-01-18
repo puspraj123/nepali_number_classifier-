@@ -56,5 +56,4 @@ Through this project, I learned:
 
 ---
 
-## Author
 Puspa Raj Ojha
