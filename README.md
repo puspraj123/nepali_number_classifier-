@@ -42,8 +42,9 @@ All preprocessing and analysis were done inside Google Colab.
 
 ## How to Run
 1. Open `final_project.ipynb` in Google Colab
-2. Run all the cells sequentially
-3. Clustered output folders will be generated automatically
+2. upload the all_numbers_zip_file on google colab
+3. Run all the cells sequentially
+4. Clustered output folders will be generated automatically
 
 ---
 
